@@ -6,6 +6,6 @@
   </p>
   
 
-I'm studies at Faculty of Computers and Artificial Intelligence - Cairo University,  I'm always learning more and developing my skills each day. I'm currently interested in Data science
+I'm studies at Faculty of Computers and Artificial Intelligence - Cairo University,  I'm always learning more and developing my skills each day.
 
 
