@@ -6,6 +6,19 @@
   </p>
   
 
-I'm studies at Faculty of Computers and Artificial Intelligence - Cairo University,  I'm always learning more and developing my skills each day.
+I'm studies at Faculty of Computers and Artificial Intelligence - Cairo University <br>
+I have web decelopment background from side projects <br>
+Now, I'm studying **data enginnering with python on dataCamp**, always learning more and developing my skills each day.
 
+<!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
+
+
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/AhmedAtya74">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedAtya74&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/AhmedAtya74">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AhmedAtya74&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Ahmed's GitHub Stats" />
+</a>
 
