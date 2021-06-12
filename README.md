@@ -11,8 +11,8 @@ I have web decelopment background from side projects <br>
 Now, I'm studying **data enginnering with python on dataCamp**, always learning more and developing my skills each day.<br>
 
 Contestant at ACM ACPC Kickoff 2021 <br> <br>
-Contestant at Google CodeJam Round 1 2021 <br>
-- Got 57 points, solved 4 probelm and got 35th place on Egypt in Google Code Jam 2021 Online out of more than 450 egyptian contestants <br><br>
+Contestant at Google CodeJam Round 1 2021  <br>
+- Got 59 points, solved 4 probelm and got 35th place on Egypt in Google Code Jam 2021 Online out of more than 450 egyptian contestants <a href="https://drive.google.com/file/d/168bfDDQL3ov5GphW8upF-GJGC6f0Ft1K/view?usp=sharing"><img src="https://img.shields.io/badge/codejam-%231FA1F1?style=flat&logo=codejam&logoColor=white"/></a><br><br>
 
 Contestant at Codeforces online judge and solved around +700 probelm <a href="https://drive.google.com/file/d/1KzcvimF7fUOkLp_QjZtQoJQS-F3H9tHd/view?usp=sharing"><img src="https://img.shields.io/badge/Codeforces-%231FA1F1?style=flat&logo=Codeforces&logoColor=white"/></a>
 <!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
