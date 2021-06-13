@@ -10,6 +10,16 @@ I'm studies at Faculty of Computers and Artificial Intelligence - Cairo Universi
 I have web decelopment background from side projects <br>
 Now, I'm studying **data enginnering with python on dataCamp**, always learning more and developing my skills each day.<br>
 
+## Skills
+- Programming (C++ and Java)
+- OOP
+- Data Structurs
+- Algorithms
+- Design principles
+- Design Pattern
+- DBMS
+- SQL
+- Operating System Concepts 
 ## Honor & Award
 - Contestant at ACM ACPC Kickoff 2021 <br> <br>
 - Contestant at Google CodeJam Round 1 2021  <br>
