@@ -19,6 +19,8 @@ Now, I'm studying **data enginnering with python on dataCamp**, always learning 
 - Design Pattern
 - DBMS
 - SQL
+- pandas
+- python
 - Operating System Concepts 
 ## Honor & Award
 - Contestant at ACM ACPC Kickoff 2021 <br> <br>
