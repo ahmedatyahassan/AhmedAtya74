@@ -11,7 +11,7 @@ I have web decelopment background from side projects <br>
 Now, I'm studying **data enginnering with python on dataCamp**, always learning more and developing my skills each day.<br>
 
 ## Skills
-- Programming (C++و Java and python)
+- Programming (C++, Java and python)
 - OOP
 - Data Structurs
 - Algorithms
