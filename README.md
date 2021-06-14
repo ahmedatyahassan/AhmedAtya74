@@ -11,7 +11,7 @@ I have web decelopment background from side projects <br>
 Now, I'm studying **data enginnering with python on dataCamp**, always learning more and developing my skills each day.<br>
 
 ## Skills
-- Programming (C++ and Java)
+- Programming (C++و Java and python)
 - OOP
 - Data Structurs
 - Algorithms
@@ -19,8 +19,6 @@ Now, I'm studying **data enginnering with python on dataCamp**, always learning 
 - Design Pattern
 - DBMS
 - SQL
-- pandas
-- python
 - Operating System Concepts 
 ## Honor & Award
 - Contestant at ACM ACPC Kickoff 2021 <br> <br>
