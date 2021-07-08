@@ -8,7 +8,7 @@
 ## About Me
 I'm studies at Faculty of Computers and Artificial Intelligence - Cairo University <br>
 I have web decelopment background from side projects <br>
-Now, I'm studying **data enginnering with python on dataCamp**, always learning more and developing my skills each day.<br>
+Now, I'm studying **data enginnering with python @dataCamp**, always learning more and developing my skills each day.<br>
 
 ## Skills
 - Programming languages (C++, Java and python)
