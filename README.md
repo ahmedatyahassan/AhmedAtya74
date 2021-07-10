@@ -13,7 +13,7 @@ Now, I'm studying **data engineering with python @dataCamp**, always learning mo
 ## Skills
 - Programming languages (C++, Java and python)
 - OOP
-- Data Structurs
+- Data Structures
 - Algorithms
 - Design principles
 - Design Pattern
