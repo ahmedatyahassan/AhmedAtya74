@@ -26,12 +26,9 @@ Now, I'm studying **data engineering with python @dataCamp**, always learning mo
 ## Honor & Award
 - Contestant at ACM ACPC Kickoff 2021 <br> <br>
 - Contestant at Google CodeJam Round 1 2021  <br>
-  - Got 59 points, solved 4 probelm and got 35th place on Egypt <a href="https://drive.google.com/file/d/168bfDDQL3ov5GphW8upF-GJGC6f0Ft1K/view?usp=sharing"><img src="https://img.shields.io/badge/See credential-%231FA1F1?style=flat&logo=GoogleCodeJam&logoColor=white"/></a><br><br>
-
-- Contestant at Codeforces online judge and solved around +700 probelm <a href="https://drive.google.com/file/d/1KzcvimF7fUOkLp_QjZtQoJQS-F3H9tHd/view?usp=sharing"><img src="https://img.shields.io/badge/See credential-%231FA1F1?style=flat&logo=Codeforces&logoColor=white"/></a>
-<!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
-
-
+  - Got 59 points, solved 4 probelm and got 35th place on Egypt 
+  
+- Contestant at Codeforces online judge and solved around +700 probelm 
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/AhmedAtya74">
