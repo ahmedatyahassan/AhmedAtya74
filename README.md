@@ -10,25 +10,6 @@
 Studies at Faculty of Computers and Artificial Intelligence - Cairo University <br>
 I have web decelopment background from side projects <br>
 Now, I'm studying **data engineering with python @dataCamp**, always learning more and developing my skills each day.<br>
-
-## Skills
-- Programming languages (C++, Java and python)
-- OOP
-- Data Structures
-- Algorithms
-- Design principles
-- Design Pattern
-- UML
-- Data Modeling
-- DBMS
-- SQL
-- Operating System Concepts 
-## Honor & Award
-- Contestant at ACM ACPC Kickoff 2021 <br> <br>
-- Contestant at Google CodeJam Round 1 2021  <br>
-  - Got 59 points, solved 4 probelm and got 35th place on Egypt 
-  
-- Contestant at Codeforces online judge and solved around +700 probelm 
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/AhmedAtya74">
