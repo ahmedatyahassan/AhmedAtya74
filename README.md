@@ -8,8 +8,7 @@
   
 ## About Me
 Studies at Faculty of Computers and Artificial Intelligence - Cairo University <br>
-I have web decelopment background from side projects <br>
-Now, I'm studying **data engineering with python @dataCamp**, always learning more and developing my skills each day.<br>
+Now, I'm studying Big Data Engineering, always learning more and developing my skills each day.<br>
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/AhmedAtya74">
