@@ -13,9 +13,9 @@ Skilled in Problem Solving, Algorithms, Data Structures and have a strong passio
 
 ## Honors & Awards
 - ACM Egyptian Collegiate Programming Contest (ECPC) 2021 **Rank: 9th**
-- ACM Egyptian Collegiate Programming Contest (ECPC) 2020 
 - ACM Arab Collegiate Programming Individual Contest Kick off (ACPC) 2021
 - ACM Africa and Arab Collegiate Programming Contest (ACPC) 2021
+- ACM Egyptian Collegiate Programming Contest (ECPC) 2020 
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/AhmedAtya74">
