@@ -9,6 +9,7 @@
   
 ## About Me
 Studies at Faculty of Computers and Artificial Intelligence - Cairo University <br>
+Skilled in Problem Solving, Algorithms, Data Structures
 Now, I'm studying Big Data Engineering, always learning more and developing my skills each day.<br>
 
 ## Honors & Awards
