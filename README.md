@@ -9,14 +9,7 @@
   
 ## About Me
 Studies at Faculty of Computers and Artificial Intelligence - Cairo University <br>
-Skilled in Problem Solving, Algorithms, Data Structures and have a strong passion for Big Data Engineering
-
-## Honors & Awards
-- ACM Egyptian Collegiate Programming Contest (ECPC) 2021 **Rank: 9th**
-- ACM Africa and Arab Collegiate Programming Contest (ACPC) 2021
-- ACM Arab Collegiate Programming Individual Contest Kick off (ACPC) 2021
-- ACM Egyptian Collegiate Programming Contest (ECPC) 2020 
-## &#x1f4c8; GitHub Stats
+Skilled in Problem Solving, Algorithms, Data Structures.
 
 <a href="https://github.com/AhmedAtya74">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AhmedAtya74&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Ahmed's GitHub Stats" />
