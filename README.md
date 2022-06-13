@@ -4,7 +4,7 @@
 + Senior Computer Science Student at Faculty of Computers and Artificial Intelligence - Cairo University
 + Skilled in Problem Solving, Algorithms, Data Structures 
 + Participated 2x in the ACM Egyptian Collegiate Programming contest (ECPC) and ranked **9th** out of +90 team.🏅
-+ Participated 1x in the ACM Egyptian Collegiate Programming contest (ACPC)
++ Participated 1x in the ACM Arab Collegiate Programming contest (ACPC)
 + Solved **+800** problems on various online judges.💥
 
 ### 📫 Get In Touch
