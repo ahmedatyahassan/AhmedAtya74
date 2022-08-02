@@ -1,13 +1,18 @@
 
-### WELCOME 👋
+### OVERVIEW 👋🏻
++ Software Engineer at bld.ai
++ Skilled in Problem Solving, Algorithms, Data Structures and have a strong passion for Software Engineering.
+##### TECHNOLOGY STACK
++ Dajngo
++ ReactJs
 
-+ Senior Computer Science Student at Faculty of Computers and Artificial Intelligence - Cairo University
-+ Skilled in Problem Solving, Algorithms, Data Structures 
-+ Participated 2x in the ACM Egyptian Collegiate Programming contest (ECPC) and ranked **9th** out of +90 team.🏅
+### ACHIEVEMENT 🥇
+
++ Participated 2x in the ACM Egyptian Collegiate Programming contest (ECPC) and ranked **9th** out of +90 team.
 + Participated 1x in the ACM Arab Collegiate Programming contest (ACPC)
-+ Solved **+800** problems on various online judges.💥
++ Solved **+800** problems on various online judges.
 
-### 📫 Get In Touch
+### 📫 GET IN TOUCH 🔎
 You can find me there [Twitter](https://twitter.com/Ahmed_3tya), [LinkedIn](https://www.linkedin.com/in/ahmed-atya-0635531a3/). Also contact me by [Email](mailto:ahmed.atya.pr@gmail.com)
 
 
