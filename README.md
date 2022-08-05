@@ -2,9 +2,10 @@
 ### OVERVIEW 👋🏻
 + Software Engineer at bld.ai
 + Skilled in Problem Solving, Algorithms, Data Structures and have a strong passion for Software Engineering.
+
 ##### TECHNOLOGY STACK
 + Dajngo
-+ ReactJs
++ React
 
 ### ACHIEVEMENT 🥇
 
