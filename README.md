@@ -3,10 +3,6 @@
 + Software Engineer at bld.ai
 + Skilled in Problem Solving, Algorithms, Data Structures and have a strong passion for Software Engineering.
 
-##### TECHNOLOGY STACK
-+ Dajngo
-+ React
-
 ### ACHIEVEMENT 🥇
 
 + Participated 2x in the ACM Egyptian Collegiate Programming contest (ECPC) and ranked **9th** out of +90 team.
